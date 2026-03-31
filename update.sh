@@ -1,4 +1,6 @@
 #!/bin/bash
+# Simple 1 script update.
+# Copy this whole code and paste.
 # sudo vim /bin/update
 # sudo chmod +x /bin/update
 clear
