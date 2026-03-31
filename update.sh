@@ -1,4 +1,6 @@
 #!/bin/bash
+# sudo vim /bin/update
+# sudo chmod +x /bin/update
 clear
 echo "=================================="
 echo "!!! STARTING REPOSITORY UPDATE !!!"
